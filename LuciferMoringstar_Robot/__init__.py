@@ -13,7 +13,7 @@ from .Channel import (
 HELP = """
 Basic Commads
 
-/start :- check am Alive
+/start :- check I am alive
 
 Bot Owner Only
 /broadcast Replay Any Message or Media
@@ -30,8 +30,8 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [Meme1967meme](
+https://t.me/MarvelCollection12345)
 
 ➥ Language : Python3
 
