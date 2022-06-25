@@ -30,10 +30,11 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Meme1967meme](
+➥ Creator : [meme1967meme](
 https://t.me/MarvelCollection12345)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
+   Tutorial : (https://t.me/MarvelCollection1234)
