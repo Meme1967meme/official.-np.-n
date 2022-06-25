@@ -13,7 +13,7 @@ from .Channel import (
 HELP = """
 Basic Commads
 
-/start :- check I am alive
+/start :- I am not alive
 
 Bot Owner Only
 /broadcast Replay Any Message or Media
